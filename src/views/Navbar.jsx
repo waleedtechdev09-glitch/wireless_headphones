@@ -42,7 +42,7 @@ const Navbar = () => {
             </a>
           ))}
 
-          <button className="text-xl hover:scale-110 transition">
+          <button className="text-xl hover:scale-110 transition cursor-pointer">
             <SlEarphones />
           </button>
         </div>
